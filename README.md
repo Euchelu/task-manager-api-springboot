@@ -2,7 +2,7 @@
 
 A REST API for managing personal tasks, built with **Spring Boot 3**, **Spring Data JPA / Hibernate** and **Spring Security (JWT)**. Each user registers an account, logs in to obtain a JWT access token, and can then create, list, update and delete their own tasks.
 
-[![CI](https://github.com/<your-username>/task-manager-api/actions/workflows/ci.yml/badge.svg)](https://github.com/<your-username>/task-manager-api/actions/workflows/ci.yml)
+[![CI](https://github.com/Euchelu/task-manager-api-springboot/actions/workflows/ci.yml/badge.svg)](https://github.com/Euchelu/task-manager-api-springboot/actions/workflows/ci.yml)
 ![Java](https://img.shields.io/badge/Java-17-orange)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.3.4-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
@@ -169,3 +169,7 @@ Every push and pull request to `main` triggers the GitHub Actions workflow in [`
 ## License
 
 MIT
+
+## Author
+
+**José Ángel Ceballos Rodríguez** · [Portfolio](https://euchelu.github.io/portfolio/) · [GitHub](https://github.com/Euchelu)
